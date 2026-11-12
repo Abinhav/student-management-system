@@ -59,3 +59,6 @@ student-management/
 ## Project Status
 
 Completed basic CRUD operations, frontend integration, database connectivity, input validation, and error handling.
+## Application Preview
+
+![Student Management System Dashboard](screenshots/dashboard.png)
